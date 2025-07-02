@@ -1,9 +1,5 @@
-#baseURL = 'https://example.org/'
-#languageCode = 'en-us'
-#title = 'My New Hugo Site'
-
-baseurl = "http://www.example.com"
-title = "Alessio's Blog"
+baseurl = "http://alegrey91.github.io"
+title = "Alessio Greggi's Blog"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
