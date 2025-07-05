@@ -2,21 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/about-traveling/</loc>
-    <lastmod>2025-06-29T16:07:51+02:00</lastmod>
+    <loc>http://localhost:1313/authors/alessio-greggi/</loc>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-29T16:07:51+02:00</lastmod>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/funny-stories-from-my-trips/</loc>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-29T16:07:51+02:00</lastmod>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/traveling/</loc>
+    <lastmod>2025-07-04T17:20:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-06-29T14:15:08+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
   </url><url>
