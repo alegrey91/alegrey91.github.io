@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Alessio Greggi&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Alessio Greggi&#39;s Blog</description>
+    <title>Alessio Greggi on Alessio Greggi&#39;s Blog</title>
+    <link>http://localhost:1313/authors/alessio-greggi/</link>
+    <description>Recent content in Alessio Greggi on Alessio Greggi&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 04 Jul 2025 17:20:33 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/authors/alessio-greggi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Travel Memories - Part 1</title>
-      <link>http://localhost:1313/posts/travel-memories/</link>
+      <title>Funny Stories From My Trips - part 1</title>
+      <link>http://localhost:1313/posts/funny-stories-from-my-trips/</link>
       <pubDate>Fri, 04 Jul 2025 17:20:33 +0200</pubDate>
-      <guid>http://localhost:1313/posts/travel-memories/</guid>
+      <guid>http://localhost:1313/posts/funny-stories-from-my-trips/</guid>
       <description>&lt;p&gt;I still vividly remember my first real trip.&lt;/p&gt;&#xA;&lt;p&gt;It was early March 2011. My friends and I booked a super cheap flight to London for a one-night trip (we&amp;rsquo;d be back the following afternoon).&#xA;At the time, Ryanair was offering incredibly cheap flights from Italy, making it possible for broke students like us to jump at the chance.&#xA;If I&amp;rsquo;m not mistaken, I paid just 19€ for a round trip to London.&#xA;Since then, I&amp;rsquo;ve been lucky enough to take many trips and collect some stories along the way.&lt;/p&gt;</description>
     </item>
   </channel>

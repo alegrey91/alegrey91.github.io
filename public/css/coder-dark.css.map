@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-dark.css",
-	"sourceRoot": "/home/alessio/Documents/github/personal/alegrey91",
+	"sourceRoot": "/home/alessio/Documents/github/personal/alegrey91.github.io",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder-dark.scss",
 		"themes/hugo-coder/assets/scss/_variables.scss",
