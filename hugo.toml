@@ -1,0 +1,75 @@
+baseURL = "http://alegrey91.github.io"
+title = "Alessio Greggi's Blog"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "alegrey91"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Alessio Greggi"
+  info = "Senior Cat Feeder 🐈‍⬛ | Avid reader 📚 | Random walker 🗺️"
+  description = "Alessio Greggi's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.png"
+  #gravatar = "greggialessio@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/alegrey91/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/alegrey91/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa-brands fa-bluesky fa-2x"
+  weight = 3
+  url = "https://bsky.app/profile/alegrey91.bsky.social"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

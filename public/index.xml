@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessio Greggi&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alessio Greggi&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Dec 2025 15:42:47 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE mitigation is just a matter of context</title>
+      <link>http://localhost:1313/posts/cve-mitigation-is-just-a-matter-of-context/</link>
+      <pubDate>Thu, 18 Dec 2025 15:42:47 +0100</pubDate>
+      <guid>http://localhost:1313/posts/cve-mitigation-is-just-a-matter-of-context/</guid>
+      <description>&lt;p&gt;My last period at SUSE has been quite interesting. Last July, I moved to the SUSE Security team to help develop a new project for the security portfolio.&lt;/p&gt;&#xA;&lt;p&gt;This project answer to the name of &lt;a href=&#34;github.com/kubewarden/sbomscanner&#34; &gt;SBOMscanner&lt;/a&gt;, a SBOM-centric security scanner for registries, that has its lifecycle inside kubernetes.&lt;/p&gt;&#xA;&lt;p&gt;One of the first features I&amp;rsquo;ve made was about supporting &lt;a href=&#34;https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_Document_508c.pdf&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VEX&lt;/a&gt; repositories configuration (link &lt;a href=&#34;https://github.com/kubewarden/sbomscanner/pull/330&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). Thanks to this task I had the chance of discovering this new standard format used to convey information about the exploitability of vulnerabilities in software products and share it with scanning tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>travel memories - The Creaking Roommate</title>
+      <link>http://localhost:1313/posts/travel-memories-part-2/</link>
+      <pubDate>Sun, 13 Jul 2025 16:29:02 +0200</pubDate>
+      <guid>http://localhost:1313/posts/travel-memories-part-2/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been a big fan of low-budget trips.&lt;/p&gt;&#xA;&lt;p&gt;The main reason isn’t just that I don’t like spending money (though that’s definitely part of it 😅), but because low-budget travel often means weird, inconvenient experiences. Those make for the best stories when you&amp;rsquo;re back home.&#xA;The one I’m about to tell captures that perfectly. It’s still one of my favorite travel stories to this day.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-creaking-roommate&#34;&gt;&#xA;  The Creaking Roommate&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#the-creaking-roommate&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Back in the year of our Lord 2015, I was a young man intent on studying Computer Science at the University (with, let’s say, less-than-excellent grades). I was almost 24 and absorbed by the usual youthful interests: love, football, computers, and listening to music.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>travel memories - Sleeping at the Airport</title>
+      <link>http://localhost:1313/posts/travel-memories/</link>
+      <pubDate>Fri, 04 Jul 2025 17:20:33 +0200</pubDate>
+      <guid>http://localhost:1313/posts/travel-memories/</guid>
+      <description>&lt;p&gt;I still vividly remember my first real trip.&lt;/p&gt;&#xA;&lt;p&gt;It was early March 2011. My friends and I booked a super cheap flight to London for a one-night trip (we&amp;rsquo;d be back the following afternoon).&#xA;At the time, Ryanair was offering incredibly cheap flights from Italy, making it possible for broke students like us to jump at the chance.&#xA;If I&amp;rsquo;m not mistaken, I paid just 19€ for a round trip to London.&#xA;Since then, I&amp;rsquo;ve been lucky enough to take many trips and collect some stories along the way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 29 Jun 2025 14:15:08 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;&#xA;  About me&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-me&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I work as Software Engineer at Suse, where I occasionally write bugs. I orbit around the Open-Source since 2010. I live in a nice city near Rome, called Tivoli (which I highly recommend you to visit if you are close to here).&#xA;I&amp;rsquo;m a self-taught, always curious about what surrounds me. I feed my soul gaining knowledge from different cultures, through the trips I often do.&#xA;I love feeding my body tasting good food sharing it with my friends and my partner Martina. I truly believe this is the best way to delve into a different culture.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
