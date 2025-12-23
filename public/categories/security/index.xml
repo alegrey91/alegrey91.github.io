@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Alessio Greggi&#39;s Blog</title>
+    <link>http://localhost:1313/categories/security/</link>
+    <description>Recent content in Security on Alessio Greggi&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Dec 2025 15:42:47 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE mitigation is just a matter of context</title>
+      <link>http://localhost:1313/posts/cve-mitigation-is-just-a-matter-of-context/</link>
+      <pubDate>Thu, 18 Dec 2025 15:42:47 +0100</pubDate>
+      <guid>http://localhost:1313/posts/cve-mitigation-is-just-a-matter-of-context/</guid>
+      <description>&lt;p&gt;My last period at SUSE has been quite interesting. Last July, I moved to the SUSE Security team to help develop a new project for the security portfolio.&lt;/p&gt;&#xA;&lt;p&gt;This project goes by the name of &lt;a href=&#34;https://github.com/kubewarden/sbomscanner&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SBOMscanner&lt;/a&gt;: an SBOM-centric security scanner for container registries, designed to run natively inside Kubernetes.&lt;/p&gt;&#xA;&lt;p&gt;One of the first features I worked on was support for configuring &lt;a href=&#34;https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_Document_508c.pdf&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VEX&lt;/a&gt; repositories (PR &lt;a href=&#34;https://github.com/kubewarden/sbomscanner/pull/330&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). Thanks to this task, I had the chance to discover this relatively new standard format, which is used to convey information about the exploitability of vulnerabilities in software products and to share that information with scanning tools.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

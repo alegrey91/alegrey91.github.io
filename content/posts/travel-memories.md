@@ -1,7 +1,7 @@
 +++ 
-draft = true
+draft = false
 date = 2025-07-04T17:20:33+02:00
-title = "travel memories - Sleeping at the Airport"
+title = "Travel Memories - Sleeping at the Airport"
 description = ""
 slug = ""
 authors = ["Alessio Greggi"]

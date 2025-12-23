@@ -1,7 +1,7 @@
 +++ 
-draft = true
+draft = false
 date = 2025-07-13T16:29:02+02:00
-title = "travel memories - The Creaking Roommate"
+title = "Travel Memories - The Creaking Roommate"
 description = ""
 slug = ""
 authors = ["Alessio Greggi"]
