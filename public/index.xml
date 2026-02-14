@@ -6,8 +6,15 @@
     <description>Recent content on Alessio Greggi&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 15:42:47 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 13:06:45 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Sat, 14 Feb 2026 13:06:45 +0100</pubDate>
+      <guid>http://localhost:1313/talks/</guid>
+      <description>&lt;p&gt;Over time, I&amp;rsquo;ve given talks about my projects:&lt;/p&gt;&#xA;&lt;h2 id=&#34;2026&#34;&gt;&#xA;  2026&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#2026&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Container Days - London&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Environment-Aware Vulnerability Suppression Using Kubernetes Security Context and VEX&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;&#xA;  2024&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#2024&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Golang Meetup - Rome&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=iUg3fkoNxcY&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Test-driven Hardening: Crafting Seccomp Profiles within Test Pipeline&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;GoLab&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://golab.io/talks/test-driven-hardening-crafting-seccomp-profiles-within-test-pipeline&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Test-driven Hardening: Crafting Seccomp Profiles Within Test Pipeline&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Conf42&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z8IHOTlG3pM&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How we almost secured our project by writing more tests&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;FOSDEM&lt;/strong&gt;:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>CVE mitigation is just a matter of context</title>
       <link>http://localhost:1313/posts/cve-mitigation-is-just-a-matter-of-context/</link>
